@@ -5,7 +5,7 @@
 - 📫 How to reach me ...Linkedin
 
 <!-- SOCAIL MEDIA HANDLES -->
-[![Linkedin Badge](https://img.shields.io/badge/-RitiKumari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uday-kiran-pamu-0741501a3)](https://www.linkedin.com/in/uday-kiran-pamu-0741501a3)
+[![Linkedin Badge](https://img.shields.io/badge/-Imudaypamu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uday-kiran-pamu-0741501a3)](https://www.linkedin.com/in/uday-kiran-pamu-0741501a3)
 
 [![Gmail Badge](https://img.shields.io/badge/-imudaykiranpamu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imudaykiranpamu@gmail.com)](mailto:ritikumariupadhyay24@gmail.com)
 
