@@ -11,7 +11,7 @@
 
 - [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+919701514053)](https://wa.me/+919701514053)
 
-- [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/uday_kiran_pamu?igshid=NTdlMDg3MTY=)](https://instagram.com/uday_kiran_pamu?igshid=NTdlMDg3MTY=)
+- [![Instagram Badge](https://img.shields.io/badge/Imudaypamu-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/uday_kiran_pamu?igshid=NTdlMDg3MTY=)](https://instagram.com/uday_kiran_pamu?igshid=NTdlMDg3MTY=)
 <!---
 Imudaypamu/Imudaypamu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
