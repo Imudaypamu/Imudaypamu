@@ -51,15 +51,24 @@
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
+    ![Cpanel](https://img.shields.io/badge/CPANEL-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
 <br>
 
 - **Cloud Technologies**:
 
     ![AWS Cloud](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 <br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
+
+<div align='left'>
+
 <!-- SOCAIL MEDIA HANDLES -->
+
 - [![Linkedin Badge](https://img.shields.io/badge/-Imudaypamu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uday-kiran-pamu-0741501a3)](https://www.linkedin.com/in/uday-kiran-pamu-0741501a3)
 
 - [![Gmail Badge](https://img.shields.io/badge/-imudaykiranpamu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imudaykiranpamu@gmail.com)](mailto:ritikumariupadhyay24@gmail.com)
@@ -67,6 +76,15 @@
 - [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+919701514053)](https://wa.me/+919701514053)
 
 - [![Instagram Badge](https://img.shields.io/badge/Imudaypamu-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/uday_kiran_pamu?igshid=NTdlMDg3MTY=)](https://instagram.com/uday_kiran_pamu?igshid=NTdlMDg3MTY=)
+
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
+ <p> Last Updated : 14 Jan 2023,7:46PM</p>
+
 <!---
 Imudaypamu/Imudaypamu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
