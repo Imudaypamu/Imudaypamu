@@ -87,7 +87,7 @@
 
 - [![Linkedin Badge](https://img.shields.io/badge/-Imudaypamu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uday-kiran-pamu-0741501a3)](https://www.linkedin.com/in/uday-kiran-pamu-0741501a3)
 
-- [![Gmail Badge](https://img.shields.io/badge/-imudaykiranpamu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imudaykiranpamu@gmail.com)](mailto:ritikumariupadhyay24@gmail.com)
+- [![Gmail Badge](https://img.shields.io/badge/-imudaykiranpamu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imudaykiranpamu@gmail.com)](mailto:imudaykiranpamu@gmail.com)
 
 - [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+919701514053)](https://wa.me/+919701514053)
 
