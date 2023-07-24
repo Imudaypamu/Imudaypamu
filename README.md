@@ -1,4 +1,118 @@
-<script>
-<!-- code by https://www.html-code-generator.com -->
-document.write(unescape('%0A%3Ch3%20align%3D%22center%22%3E%3Cb%3EHi%20%2C%20I%27m%20Uday%20Kiran%20Pamu%20%3C/b%3E%3Cimg%20src%3D%22https%3A//media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif%22%20width%3D%2230%22%3E%3C/h3%3E%0A%0A%3Cp%20align%3D%22center%22%3E%0A%20%20%3Ca%20href%3D%22https%3A//github.com/DenverCoder1/readme-typing-svg%22%3E%3Cimg%20src%3D%22https%3A//readme-typing-svg.herokuapp.com%3Ffont%3DTime+New+Roman%26color%3Dcyan%26size%3D25%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26height%3D100%26lines%3DThanks+for+visiting%21+..%26hearts%3B++%3BSelf-taught+Disciple%2C%3BComputer+Science+Student%2C%3BActive+Learner/Researcher%2C%3BLove+to+learn+new+stuffs..%3C3%22%3E%3C/a%3E%0A%3C/p%3E%0A%0A%0A%3Cbr%3E%0A%0A%0A%0A%09%0A%23%23%20%3Cpicture%3E%3Cimg%20src%20%3D%20%22https%3A//github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif%22%20width%20%3D%2050px%3E%3C/picture%3E%20**About%20me**%0A%0A%3Cpicture%3E%20%3Cimg%20align%3D%22right%22%20src%3D%22https%3A//github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif%22%20width%20%3D%20250px%3E%3C/picture%3E%0A%0A%3Cbr%3E%0A%0A-%20%uD83D%uDC4B%20Hi%2C%20I%u2019m%20@Imudaypamu%0A-%20%uD83D%uDC40%20I%u2019m%20interested%20in%20seeking%20of%20Technical%20Skills%0A-%20%uD83C%uDF31%20I%u2019m%20currently%20learning%20%0A-%20%uD83D%uDC9E%uFE0F%20I%u2019m%20looking%20to%20collaborate%20on%20any%20industry%20indeed%20of%20learning%0A-%20%uD83D%uDCEB%20How%20to%20reach%20me%20...Linkedin%0A%0A%0A%3Cbr%3E%3Cbr%3E%0A%0A%3Cimg%20src%3D%22https%3A//user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif%22%3E%3Cbr%3E%3Cbr%3E%0A%0A%23%23%20%3Cimg%20src%3D%22https%3A//media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif%3Fcid%3Decf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl%26rid%3Dgiphy.gif%22%20width%20%3D%2225%22%3E%3Cb%3E%20Skills%3C/b%3E%0A%3Cbr%3E%0A%0A%3Cp%20align%3D%22center%22%3E%0A%0A-%20**Languages**%3A%0A%0A%20%20%20%20%21%5BC%5D%28https%3A//img.shields.io/badge/C%2520-%25232370ED.svg%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite%29%0A%20%0A%20%20%20%20%21%5BPython%5D%28https%3A//img.shields.io/badge/Python%2520-%252314354C.svg%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite%29%0A%3Cbr%3E%0A%0A-%20**Front-End%20Development**%3A%0A%0A%20%20%20%21%5BHTML5%5D%28https%3A//img.shields.io/badge/HTML5%2520-%2523E34F26.svg%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite%29%0A%20%20%20%21%5BCSS3%5D%28https%3A//img.shields.io/badge/CSS%2520-%25231572B6.svg%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite%29%0A%20%20%20%21%5BJavaScript%5D%28https%3A//img.shields.io/badge/JavaScript%2520-%2523F7DF1E.svg%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack%29%0A%0A%3Cbr%3E%0A%0A-%20**Cloud%20Hosting**%3A%0A%0A%20%20%20%20%21%5BGithub%20Pages%5D%28https%3A//img.shields.io/badge/GitHub%2520Pages-%2523327FC7.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite%29%0A%20%20%20%20%21%5BCpanel%5D%28https%3A//img.shields.io/badge/CPANEL-FF9800%3Fstyle%3Dfor-the-badge%26logo%3Ddialogflow%26logoColor%3Dwhite%29%0A%3Cbr%3E%0A%0A-%20**Cloud%20Technologies**%3A%0A%0A%20%20%20%20%21%5BAWS%20Cloud%5D%28https%3A//img.shields.io/badge/Amazon_AWS-FF9900%3Fstyle%3Dfor-the-badge%26logo%3Damazonaws%26logoColor%3Dwhite%29%0A%0A%3Cbr%3E%0A%0A%3Cimg%20src%3D%22https%3A//user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif%22%3E%3Cbr%3E%3Cbr%3E%0A%0A%0A%0A%3Cdiv%20align%3Dcenter%3E%0A%20%20%20%20%20%20%20%20%3Ch1%3EContribution%20Activity%3C/h1%3E%0A%20%20%20%20%20%20%20%20%3Cimg%20src%3D%22https%3A//github-readme-stats.vercel.app/api%3Fusername%3DImudaypamu%26title_color%3D6FDA44%26text_color%3DFFFFFF%26show_icons%3Dtrue%26icon_color%3D6FDA44%26include_all_commits%3Dtrue%26count_private%3Dtrue%26theme%3Ddark%22%20alt%3D%22GitHub%20Stats%22%20height%3D%22200%22%20/%3E%0A%20%20%20%20%20%20%20%20%3Cbr%3E%0A%20%20%20%20%20%20%20%20%3C%21--%0A%20%20%20%20%20%20%20%20%3Cimg%20src%3D%22https%3A//github-readme-stats.vercel.app/api/top-langs%3Fusername%3DImudaypamu%26layout%3Dcompact%26title_color%3D6FDA44%26text_color%3DFFFFFF%26theme%3Ddark%22%20alt%3D%22GitHub%20Most%20Used%20Languages%22%20height%3D%22200%22%20/%3E%0A%20%20%20%20%20%20%20%20%3Cbr%3E%0A%20%20%20%20%20%20%20%20--%3E%0A%20%20%20%20%20%20%20%20%3Cimg%20src%3D%22https%3A//github-readme-streak-stats.herokuapp.com/%3Fuser%3DImudaypamu%26theme%3Ddark%26date_format%3Dj%2520M%255B%2520Y%255D%26currStreakLabel%3D6FDA44%26fire%3D6FDA44%26ring%3D6FDA44%22%20alt%3D%22GitHub%20Streak%20Stats%22%20height%3D%22200%22%20/%3E%0A%20%20%20%20%20%20%20%20%3Cbr%3E%0A%20%20%20%20%20%20%20%20%3Cbr%3E%0A%20%20%20%20%3C/div%3E%0A%0A%0A%23%23%20%3Cb%3E%20Let%27s%20Connect..%21%3C/b%3E%3Cimg%20src%3D%22https%3A//github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif%22%20width%20%3D%2280%22%3E%0A%3Cbr%3E%0A%0A%3Cdiv%20align%3D%27left%27%3E%0A%0A%3C%21--%20SOCAIL%20MEDIA%20HANDLES%20--%3E%0A%0A-%20%5B%21%5BLinkedin%20Badge%5D%28https%3A//img.shields.io/badge/-Imudaypamu-blue%3Fstyle%3Dflat-square%26logo%3DLinkedin%26logoColor%3Dwhite%26link%3Dhttps%3A//www.linkedin.com/in/uday-kiran-pamu-0741501a3%29%5D%28https%3A//www.linkedin.com/in/uday-kiran-pamu-0741501a3%29%0A%0A-%20%5B%21%5BGmail%20Badge%5D%28https%3A//img.shields.io/badge/-imudaykiranpamu@gmail.com-c14438%3Fstyle%3Dflat-square%26logo%3DGmail%26logoColor%3Dwhite%26link%3Dmailto%3Aimudaykiranpamu@gmail.com%29%5D%28mailto%3Aimudaykiranpamu@gmail.com%29%0A%0A-%20%5B%21%5BWhatsApp%20Badge%5D%28https%3A//img.shields.io/badge/-WhatsApp-25D366%3Fstyle%3Dflat-square%26logo%3Dwhatsapp%26logoColor%3Dwhite%26link%3Dhttps%3A//wa.me/+919701514053%29%5D%28https%3A//wa.me/+919701514053%29%0A%0A-%20%5B%21%5BInstagram%20Badge%5D%28https%3A//img.shields.io/badge/Imudaypamu-E4405F%3Fstyle%3Dflat-square%26logo%3Dinstagram%26logoColor%3Dwhite%26link%3Dhttps%3A//instagram.com/uday_kiran_pamu%3Figshid%3DNTdlMDg3MTY%3D%29%5D%28https%3A//instagram.com/uday_kiran_pamu%3Figshid%3DNTdlMDg3MTY%3D%29%0A%0A%0A%3Cbr%3E%0A%0A%3Cimg%20src%3D%22https%3A//user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif%22%3E%3Cbr%3E%3Cbr%3E%0A%0A%3Cbr%3E%0A%0A%23%23%20Other%20Details%0A%0A%3Cdiv%20align%3Dcenter%3E%0A%20%20%20%20%20%20%20%20%3Cimg%20src%3D%22https%3A//raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif%22%20alt%3D%22GitHub%20Octocat%20Logo%22%20height%3D%22100%22%3E%0A%20%20%20%20%20%20%20%20%3Cp%3ELoading%3C/p%3E%0A%20%20%20%20%3C/div%3E%0A%0A%3Cimg%20src%3D%22https%3A//user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif%22%3E%3Cbr%3E%3Cbr%3E%0A%0A%0A%20%3Cp%3E%20Last%20Updated%20%3A%2014%20Jan%202023%2C7%3A46PM%3C/p%3E%0A%0A%3C%21---%0AImudaypamu/Imudaypamu%20is%20a%20%u2728%20special%20%u2728%20repository%20because%20its%20%60README.md%60%20%28this%20file%29%20appears%20on%20your%20GitHub%20profile.%0AYou%20can%20click%20the%20Preview%20link%20to%20take%20a%20look%20at%20your%20changes.%0A---%3E%0A'))
-</script>
+
+<h3 align="center"><b>Hi , I'm Uday Kiran Pamu </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h3>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Thanks+for+visiting!+..&hearts;++;Self-taught+Disciple,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
+
+<br>
+
+
+
+	
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
+
+- 👋 Hi, I’m @Imudaypamu
+- 👀 I’m interested in seeking of Technical Skills
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on any industry indeed of learning
+- 📫 How to reach me ...Linkedin
+
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
+
+<p align="center">
+
+- **Languages**:
+
+    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+ 
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+<br>
+
+- **Front-End Development**:
+
+   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+<br>
+
+- **Cloud Hosting**:
+
+    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Cpanel](https://img.shields.io/badge/CPANEL-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
+<br>
+
+- **Cloud Technologies**:
+
+    ![AWS Cloud](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
+
+<div align=center>
+        <h1>Contribution Activity</h1>
+        <img src="https://github-readme-stats.vercel.app/api?username=Imudaypamu&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+        <br>
+        <!--
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Imudaypamu&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
+        <br>
+        -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imudaypamu&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
+        <br>
+        <br>
+    </div>
+
+
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
+
+<div align='left'>
+
+<!-- SOCAIL MEDIA HANDLES -->
+
+- [![Linkedin Badge](https://img.shields.io/badge/-Imudaypamu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uday-kiran-pamu-0741501a3)](https://www.linkedin.com/in/uday-kiran-pamu-0741501a3)
+
+- [![Gmail Badge](https://img.shields.io/badge/-imudaykiranpamu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imudaykiranpamu@gmail.com)](mailto:imudaykiranpamu@gmail.com)
+
+- [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+919701514053)](https://wa.me/+919701514053)
+
+- [![Instagram Badge](https://img.shields.io/badge/Imudaypamu-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/uday_kiran_pamu?igshid=NTdlMDg3MTY=)](https://instagram.com/uday_kiran_pamu?igshid=NTdlMDg3MTY=)
+
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<br>
+
+## Other Details
+
+<div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <p>Loading</p>
+    </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
+ <p> Last Updated : 14 Jan 2023,7:46PM</p>
+
+<!---
+Imudaypamu/Imudaypamu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
