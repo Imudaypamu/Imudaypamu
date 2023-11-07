@@ -100,7 +100,9 @@
 
 <br>
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/Imudaypamu/count.svg?align=center)
+<img src="https://profile-counter.glitch.me/Imudaypamu/count.svg?align=center" />
+<br>
+
 ## Other Details
 
 <div align=center>
