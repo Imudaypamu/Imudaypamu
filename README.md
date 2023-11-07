@@ -99,9 +99,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <br>
-🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://profile-counter.glitch.me/Imudaypamu/count.svg?align=center" />
-<br>
+
 
 ## Other Details
 
@@ -114,6 +112,9 @@
 
 
  <p> Last Updated : 07-11-2023, 02:14PM </p>
+
+ <img src="https://profile-counter.glitch.me/Imudaypamu/count.svg?align=center" />
+<br>
 
 <!---
 Imudaypamu/Imudaypamu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
